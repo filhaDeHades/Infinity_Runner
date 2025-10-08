@@ -1,8 +1,8 @@
-# Workshop Criando um Infinity Runner na Godot
+# Game Lab Criando um Infinity Runner na Godot
 
-Esse repositório tem como objetivo ilustrar o conteúdo passado no Workshop ... , organizado em parceria entre o [Include Meninas](https://www.instagram.com/includemeninas/) e o [DJUFF](https://www.instagram.com/djuff.oficial/), ambos projetos de extensão do Instituto de Computação da UFF - Niterói.
+Esse repositório tem como objetivo ilustrar o conteúdo passado no Game Lab , organizado em parceria entre o [Include Meninas](https://www.instagram.com/includemeninas/) e o [DJUFF](https://www.instagram.com/djuff.oficial/), ambos projetos de extensão do Instituto de Computação da UFF - Niterói.
 
-Durante o workshop as participantes aprenderam a:
+Durante o Game Lab as participantes aprenderam a:
 
 - Importar e configurar sprites
 - Configurar animações
