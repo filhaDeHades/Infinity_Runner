@@ -69,9 +69,10 @@ height = 8.0
 script = ExtResource( 3 )
 
 [node name="AnimatedSprite" type="AnimatedSprite" parent="."]
-position = Vector2( 160, 180 )
+position = Vector2( 160, 160 )
 frames = SubResource( 6 )
 animation = "Run"
+frame = 1
 playing = true
 __meta__ = {
 "_edit_group_": true
@@ -82,5 +83,5 @@ position = Vector2( 160, 112 )
 current = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2( 160, 183 )
+position = Vector2( 160, 163 )
 shape = SubResource( 13 )

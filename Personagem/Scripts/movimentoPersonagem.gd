@@ -9,7 +9,8 @@ func _physics_process(delta):
 	var direcao := Vector2(Input.get_vector("ui_left", "ui_right", "ui_up", "ui_down") * VELOCIDADE)
 	
 	movimento.x = direcao.x
-	#movimento.y += gravidade * delta
+	move_and_slide(movimento)
+	movimento.y += gravidade * delta
 	
 	if direcao.y < 0:
 		pass
@@ -23,4 +24,4 @@ func _physics_process(delta):
 #	else:
 #		$AnimatedSprite.play("idle")
 	
-	move_and_slide(movimento)
+	
